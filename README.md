@@ -1,5 +1,6 @@
-Hide Killer DeathScreen
+**Hide Killer DeathScreen
 
+It hides the victim's nickname, weapons, etc.**
 
 ## Config
 ```

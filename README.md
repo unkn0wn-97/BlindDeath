@@ -1,9 +1,8 @@
-**Hide Killer DeathScreen**
+It hides the victim's nickname, weapons, etc.
 
-**It hides the victim's nickname, weapons, etc.**
+## Configuration
 
-## Config
-```
+```json
 {
      "UI DestoryTime": 5.0f,
      "UI AnchorMin": "0.313 0.861",
